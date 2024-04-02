@@ -1,4 +1,4 @@
-Three projects developed in the Energy Services course, where it was developed explorive data analyses and data preparation tools, machine learning methods to forecast energy consuption and
+Three projects developed in the Energy Services course, where there were developed explorive data analyses/data preparation tools, machine learning methods to forecast energy consuption and
 interactive dashboards to present the results. Some important libraries like pandas, sklearn and seaborn were used.
 
 Project #1 uses energy consuption data from Civil Building @ IST to develop an energy consuption forecast model using ML methods, with several techniques being used.
